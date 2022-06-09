@@ -1,3 +1,5 @@
 apples
 banana
 orange
+cake
+icecream
